@@ -13,4 +13,4 @@ check it below Link
 
 👇🏾
 
-<iframe src="https://janogale.github.io/landing/" title="Janagale Landing Page" width="400" height="300" style="border:none;">
+<iframe src="https://janogale.github.io/landing/">
