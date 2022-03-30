@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/landing.git/static/css/main.a617e044.chunk.css",
+    "main.js": "/landing.git/static/js/main.5df88a71.chunk.js",
+    "main.js.map": "/landing.git/static/js/main.5df88a71.chunk.js.map",
+    "runtime-main.js": "/landing.git/static/js/runtime-main.8fb22688.js",
+    "runtime-main.js.map": "/landing.git/static/js/runtime-main.8fb22688.js.map",
+    "static/js/2.8c94fec0.chunk.js": "/landing.git/static/js/2.8c94fec0.chunk.js",
+    "static/js/2.8c94fec0.chunk.js.map": "/landing.git/static/js/2.8c94fec0.chunk.js.map",
+    "static/js/3.f5cb861d.chunk.js": "/landing.git/static/js/3.f5cb861d.chunk.js",
+    "static/js/3.f5cb861d.chunk.js.map": "/landing.git/static/js/3.f5cb861d.chunk.js.map",
+    "index.html": "/landing.git/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/landing.git/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.8c94fec0.chunk.js.LICENSE.txt": "/landing.git/static/js/2.8c94fec0.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/landing.git/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8fb22688.js",
+    "static/js/2.8c94fec0.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.5df88a71.chunk.js"
+  ]
+}
