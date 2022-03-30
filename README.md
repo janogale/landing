@@ -2,4 +2,4 @@
 
 check it below Link
 
-[Janagale](https://janogale.github.io/landing/)
+[Janagale Landing Page](https://janogale.github.io/landing/)
